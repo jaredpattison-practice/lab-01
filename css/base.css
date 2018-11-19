@@ -1,0 +1,38 @@
+* {
+  text-align: center;
+}
+
+nav {
+  border: 1px solid red;
+  height: 75px;
+  width: 480px;
+  background: gray;
+}
+
+aside {
+  border: 1px solid red;
+  height: 150px;
+  width: 480px;
+  background: gray;
+}
+
+div {
+  border: 1px solid red;
+  height: 125px;
+  width: 480px;
+  background: gray;
+}
+ 
+section div {
+  border: 1px solid red;
+  height: 250px;
+  width: 240px;
+  background: gray;
+}
+
+.footer {
+  border: 1px solid red;
+  height: 80px;
+  width: 480px;
+  background: gray;
+}
